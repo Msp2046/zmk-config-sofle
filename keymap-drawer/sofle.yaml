@@ -53,7 +53,7 @@ layers:
   - {t: ., h: '>'}
   - {t: /, h: '?', s: '?'}
   - {t: '$$mdi:keyboard-return$$', h: RIGHT GUI}
-  - {t: Rgb, h: toggle}
+  - {t: Modify, h: toggle}
   - $$mdi:apple-keyboard-control$$
   - $$mdi:apple-keyboard-option$$
   - {t: '$$mdi:backspace$$', h: '$$mdi:navigation-variant$$'}
